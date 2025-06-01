@@ -1,6 +1,6 @@
 {
   "token": "YOUR_DISCORD_BOT_TOKEN",
-  "guildId": "YOUR_GUILD_ID",
+  "guildId": "1372042639737880707",
   "roleRequired": "Member",
   "webhookUrl": "http://localhost:3000/api/whitelist"
 }
